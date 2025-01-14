@@ -65,8 +65,8 @@ This Power BI report is designed for:
 
 ## Contact
 For questions or support, contact the project maintainer:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: [VAIBHAV KHANDAVE]
+- **Email**: [vaibhavkhandave123@gmail.com]
 
 ---
 

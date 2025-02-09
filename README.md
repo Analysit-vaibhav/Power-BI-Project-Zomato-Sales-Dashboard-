@@ -1,4 +1,4 @@
-# Zomato Sales Analysis - Power BI Project [https://app.powerbi.com/groups/me/reports/bf1aa259-179c-45b7-85dd-5dc06c557f77/616d63ceec7fa4eafdd2?experience=power-bi]
+# Zomato Sales Analysis - Power BI Project **[https://app.powerbi.com/groups/me/reports/bf1aa259-179c-45b7-85dd-5dc06c557f77/616d63ceec7fa4eafdd2?experience=power-bi]**
 
 ## Overview
 This Power BI project provides an in-depth analysis of Zomato's sales and operational data. The goal is to help stakeholders make data-driven decisions by offering actionable insights into customer behavior, restaurant performance, menu trends, and order metrics.
